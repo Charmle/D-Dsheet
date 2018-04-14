@@ -19,7 +19,7 @@ package dnd.core;
 import java.util.Random;
 import java.util.Scanner;
 
-//test for github 
+//test for github2 
 
 public class v2 {
 	public static void main(String[] args) {
